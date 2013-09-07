@@ -1,0 +1,11 @@
+;comentario no. 1
+;comentario numero 2
+;comentario no. 3
+	org  	 $ABCD
+ 	 SWI
+TRES_1	Adca	   #$34
+;comentario no. 4
+e_2	    Ldaa 	 	38
+E_5 x.y
+;comentario numero 5
+  	end
