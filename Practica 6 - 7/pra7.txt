@@ -1,0 +1,5 @@
+		org	0
+	CMPA	[12,pc]
+EN3	cmpa 	[4096,sp]
+	cmpa 	[D,y]
+	END

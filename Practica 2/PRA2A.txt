@@ -1,0 +1,8 @@
+  	org 	%1100
+  	  FDIV
+ 	 CPY	48
+E_3	 LBPL 	#%012
+N_3	emuls
+ 	 cps	93
+ 	 beq 	"3456"
+ 	end

@@ -1,0 +1,11 @@
+	org $0
+	subd en1
+	fcc 	"abc ABC"
+	fdb	32768
+	fcb 180
+	dc.b @325
+	dc.w @777
+	db %101010
+	dw %10101010101
+en1	equ $ABCD
+	end
