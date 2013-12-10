@@ -1,4 +1,0 @@
-	ORG		$0
-	SUBD		XYZ
-EN1	EQU		$ABCD
-	END

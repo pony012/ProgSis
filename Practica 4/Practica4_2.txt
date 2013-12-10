@@ -1,7 +1,0 @@
-en1	equ	$33
-en2	equ	@22
-	org	%0
-en3	equ	22
-en4	equ 4096
-en5	equ	$ab
-	end

@@ -1,4 +1,0 @@
-	ORG $FFF
-	INX
-E_1 ADCA #3
-	END
