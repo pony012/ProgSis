@@ -1,0 +1,23 @@
+	org	$1000
+	adca	[0,x]
+	adca	[0,y]
+	adca [0,sp]
+	adca [0,pc]
+	swi
+	ds.b $20
+	adca [0,x]
+	adca [0,y]
+	adca [0,pc]
+	fcc	"abcde"
+	swi
+	ds.b $1
+	swi
+	ds.b $1
+	swi
+	swi
+	swi
+	swi
+	swi
+	ds.b $1
+	fcc "abcde"
+	end

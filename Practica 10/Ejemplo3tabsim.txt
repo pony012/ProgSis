@@ -1,0 +1,14 @@
+Pri	0001
+Seg	0002
+Ter	0003
+Cua	0004
+Et	00FF
+Otra	0000
+Qui	0005
+Sex	0006
+Sep	0110
+Oct	0008
+Nov	0009
+Dec	000A
+Onc	000B
+Tre	000D

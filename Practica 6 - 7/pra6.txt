@@ -1,0 +1,19 @@
+	org	0
+EN1	CMPA	,pc
+	CMPA	15,x
+	cmpa 	-16,x
+EN3	cmpa 	1,-x
+	cmpa 	1,x+
+	cmpa 	15,y
+EN4	cmpa 	-16,y
+	cmpa 	2,y+
+	cmpa 	8,sp
+	cmpa 	-8,sp
+EN5	cmpa 	10,pc
+	CMPA 	-6,pc
+	cmpa 	-18,x
+	cmpa 	34,X
+	cmpa 	255,pc
+	cmpa 	31483,pc
+	cmpa 	D,X
+	END

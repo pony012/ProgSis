@@ -1,9 +1,0 @@
- 	 a.b.c	  34
-	 .xy 	48
- 	%abc
-et1  abcdefgh		$1,X
-.xy	 xy	xy
-XY.Y	  xy
-EN_3
-E234567891 	abc 46
-	ab%	abc
